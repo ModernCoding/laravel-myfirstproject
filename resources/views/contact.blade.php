@@ -5,10 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>Here we go!</h1>
-
-    <p>
-      <a href="/contact">Contact us to learn more</a>
-    </p>
+    <h1>Contact form</h1>
   </body>
 </html>
